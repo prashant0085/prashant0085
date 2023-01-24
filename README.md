@@ -1,8 +1,16 @@
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/prashant0085)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://instagram.com/prashant_Devops) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/prashant0085/)
+[<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/channel/UCKOyKkv6jeAhFZw-xp4aqdw)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKOyKkv6jeAhFZw-xp4aqdw)
+[<img src="https://img.shields.io/badge/webiste-visit-green" />](https://www.prashanttiwari.dev/)
+
+
 - 👋 Hi, I’m @prashant0085
-- 👀 I’m interested in DevOps, Ci/CD, K8s
-- 🌱 I’m currently learning Blockchain Application Deployments on K8s
-- 💞️ I’m looking to collaborate on DevOps project, Iac automation project
-- 📫 How to reach me? send an email on <prashanttiwari1337@gmail.com>
+- 👀 I’m interested in `DevOps`, `CI/CD`, `Kubernetes`
+- 🌱 I’m currently looking for remote kubernetes engineer position EU timezone.
+- 💞️ I’m looking to collaborate on Kubernetes, DevOps project, Iac automation project
+- 📫 How to reach me? send an email on <prashant.tiwari@protonmail.com>
 
 <!---
 prashant0085/prashant0085 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
