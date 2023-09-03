@@ -8,8 +8,8 @@
 
 - 👋 Hi, I’m @prashant0085
 - 👀 I’m interested in `DevOps`, `CI/CD`, `Kubernetes`
-- 🌱 I’m currently looking for remote kubernetes engineer position EU timezone.
-- 💞️ I’m looking to collaborate on Kubernetes, DevOps project, Iac automation project
+- 🌱 I’m currently looking for remote kubernetes engineer position.
+- 💞️ I’m looking to work on GitOps, ArgoCD, Kubernetes management and automation projects.
 - 📫 How to reach me? send an email on <prashant.tiwari@protonmail.com>
 
 <!---
